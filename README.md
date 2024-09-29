@@ -22,6 +22,8 @@ Chapter 2: 关系模型简介
 介绍关系型数据库的基础结构、模式、关键字和关系代数。为理解SQL打基础。
 核心内容：关系数据库的结构、模式、关键字、关系代数。
 
+      Chapter 2 Introduction to the Relational Model 完成于29/9/24
+
 Chapter 3: SQL简介
 
 详细介绍SQL语言的基础，包括查询语句、操作符、集合操作等。
