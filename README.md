@@ -11,6 +11,8 @@ Content of This Book：
 主要介绍数据库系统的基本概念及其应用背景，包括数据视图、数据库语言、设计、体系结构等。是整个课程的理论基础部分。
 核心内容：数据库系统的应用、架构、设计原则、数据库历史。
 
+      Chapter 1: Introduction 完成于29/9/24
+
 
 ---
 2. 关系模型及SQL (Part One: Relational Languages)
