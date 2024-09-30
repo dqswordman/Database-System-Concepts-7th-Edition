@@ -43,10 +43,13 @@ Chapter 5: 高级SQL
 ---
 3. 数据库设计 (Part Two: Database Design)
 
-Chapter 6: 使用ER模型的数据库设计
+      Chapter 6: 使用ER模型的数据库设计
 
 介绍实体关系模型（ER模型）和关系模式的转化，是数据库设计的基础。
 核心内容：ER模型、关系模式、主键、冗余消除。
+
+Chapter 6.1-6.7Database Design Using the E-R Model 完成于30/9/24
+
 
 Chapter 7: 关系数据库设计
 
